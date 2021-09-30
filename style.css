@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    text-decoration: none;
+    list-style: none;  
+}
+
+.imgLogo {
+    width: 30%;
+}
+
+
+textarea {
+    resize: none;
+}
+.btn-btn {
+    background-color: #fff;
+    color: black;
+
+
+}
+
+h1, h2, h3, h4, h5, h6, a, li {
+    font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+    color: rgb(26, 26, 26);
+  }
+  a:hover {
+    color: rgb(85, 84, 84); 
+    text-decoration: none;
+  }
+
+  li:hover {
+    color: rgb(85, 84, 84); 
+  }
+  
+li {
+
+    cursor: pointer;
+    
+    
+}  
+
+
+
+#btn-effect:hover {
+    transition: 0.5s;
+    transform: scale(1.2); 
+   
+}
+
+
+.navbar,
+.footer {
+background: linear-gradient(90deg, rgba(205, 232, 240, 0.582) 11%, rgba(243,238,246,0.4729224453453257) 82%, rgba(240,243,244,1) 87%, rgb(255, 255, 255) 96%);
+}
+
